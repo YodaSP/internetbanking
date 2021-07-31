@@ -29,12 +29,12 @@
   <repository>
    <id>nexus</id>
    <name>atmproject release</name>
-   <url>http://13.235.70.66:8081/repository/internetbanking-dev/</url>
+   <url>http://13.233.33.197:8081/repository/internetbanking-dev/</url>
   </repository>
   <snapshotRepository>
   <id>nexus</id>
   <name>atmproject snapshot</name>
-  <url>http://13.235.70.66:8081/repository/internetbanking-snapshot/</url>
+  <url>http://13.233.33.197:8081/repository/internetbanking-snapshot/</url>
   </snapshotRepository>
   </distributionManagement>
 	
